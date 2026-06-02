@@ -5,7 +5,8 @@ import { inspectAttr } from 'kimi-plugin-inspect-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  // CHANGE THIS: Set to '/' for absolute root domain hosting
+  base: '/', 
   plugins: [inspectAttr(), react()],
   server: {
     port: 3000,
