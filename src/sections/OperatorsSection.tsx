@@ -120,20 +120,20 @@ const OperatorsSection: React.FC = React.memo(function OperatorsSection() {
 
   const operators: OperatorCardProps[] = [
     {
-      name: 'ADRILAW',
+      name: 'Mel Adrien Lawrence Enzo Dodin',
       handle: 'Kidpentester',
       role: 'CO-FOUNDER',
       description:
-        'Cybersecurity analyst, dedicated toolsmith, and offensive operator. Focuses on custom kernel development, weaponized hardware scripting, and multi-vector adversary simulation execution. The architect behind our hardware payloads.',
+        'Focused on the digital and psychological edge of offensive operations. Expert in advanced physical breach tactics, vishing, and high-conversion smishing/phishing campaigns. On the terminal, he engineers the raw software backing the attack—specializing in custom payload development, low-level weaponized tools, and leveraging adversarial AI to break modern defensive configurations.',
       github: 'https://github.com/Arilaw',
       linkedin: 'https://www.linkedin.com/in/dodin-mel-adrien-lawrence-enzo-5568b91b5/',
     },
     {
-      name: 'PSYPHER',
+      name: 'Prajesh Rajcoomar',
       handle: 'The-Psypher',
       role: 'CO-FOUNDER',
       description:
-        'Offensive engineer and defensive systems analyst. Focuses on architecture orchestration, advanced reverse engineering vectors, and structuring secure automated simulation environments. The mind behind our C2 frameworks.',
+        'Focused on the physical and mechanical execution of close-access operations. Alongside sharp social engineering and physical intrusion skills, he bridges the gap between hardware and software. Prajesh fabricates hyper-stealthy field implants, custom HID devices, and weaponized microcontrollers, using offensive AI to make physical delivery mechanisms completely invisible to defensive sensors.',
       github: 'https://github.com/The-Psypher',
       linkedin: 'https://www.linkedin.com/in/prajesh-rajcoomar-140a693b5/?skipRedirect=true',
     },
